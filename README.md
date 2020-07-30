@@ -1,7 +1,7 @@
 
                                         (==>LAW<==)
 
-Warning: \033[1;37mThis tool is for education and security awareness only,and the programmer is not responsible for any wrong doing or use issued through this tool.please adhere to the laws to prevent legal accountability.")
+Warning: This tool is for education and security awareness only,and the programmer is not responsible for any wrong doing or use issued through this tool.please adhere to the laws to prevent legal accountability.")
 
 usage...
 
