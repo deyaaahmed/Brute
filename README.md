@@ -10,19 +10,23 @@ ________________________________
 
 USAGE:
 
-1) pkg install python
+1) pkg install git
 
-2) pkg install python2
+2) git clone https://github.com/7azabet/Brute
 
-3) cd Brute
+3) pkg install python
 
-4) ls
+4) pkg install python2
 
-5) chmod +x *
+5) cd Brute
 
 6) ls
 
-7) python3 brute.cpython-38.pyc
+7) chmod +x *
+
+8) ls
+
+9) python3 brute.py
 _________________________________
 
                             ==>With Regards To The Pirate and 7azabet:)<==
