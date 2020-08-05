@@ -28,7 +28,7 @@ USAGE:
 
 9) python3 brute.py
 _________________________________
-There is a password list in This tool an dit is called password .and it has many common password tht you can use it in guessing it is really useful 
+There is a password list in This tool an it is called " password " .and it has many common password that you can use it in guessing, it is really useful 
 _________________________________
 
                             ==>With Regards To The Pirate and 7azabet:)<==
